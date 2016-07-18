@@ -9,12 +9,7 @@ namespace BrowserStack
   [TestFixture]
   public class SingleTest : BrowserStackMBUnitTest
   {
-    public SingleTest() : base("chrome", false) { }
-
-    public static IEnumerable<string> GetEnvironments()
-    {
-      yield return "chrome";
-    }
+    public SingleTest() : base("single", "chrome") { }
 
     [Test]
     public void SearchGoogle()

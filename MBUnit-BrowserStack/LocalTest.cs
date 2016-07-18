@@ -9,7 +9,7 @@ namespace BrowserStack
   [TestFixture]
   public class LocalTest : BrowserStackMBUnitTest
   {
-    public LocalTest() : base("chrome", true) { }
+    public LocalTest() : base("local", "chrome") { }
 
     [Test]
     public void HealthCheck()
