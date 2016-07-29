@@ -3,8 +3,6 @@
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
-<img src ="https://storage.googleapis.com/google-code-archive/v2/code.google.com/mb-unit/logo.png" height = "71">
-
 ## Setup
 * Clone the repo
 * Open the solution `MBUnit-BrowserStack.sln` in Visual Studio 2010 SP1
