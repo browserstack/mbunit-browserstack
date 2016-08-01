@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBUnit-BrowserStack", "MBUnit-BrowserStack\MBUnit-BrowserStack.csproj", "{17633383-131D-4770-BDA3-7D94CA7842B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBUnit-BrowserStack-Local", "MBUnit-BrowserStack-Local\MBUnit-BrowserStack-Local.csproj", "{A5048023-CF5F-4A1F-A9E7-10005CE77E67}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,14 +13,6 @@ Global
 		{17633383-131D-4770-BDA3-7D94CA7842B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17633383-131D-4770-BDA3-7D94CA7842B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17633383-131D-4770-BDA3-7D94CA7842B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A5048023-CF5F-4A1F-A9E7-10005CE77E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A5048023-CF5F-4A1F-A9E7-10005CE77E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A5048023-CF5F-4A1F-A9E7-10005CE77E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A5048023-CF5F-4A1F-A9E7-10005CE77E67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3685324-29A7-4D79-88BD-BA53439F1331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3685324-29A7-4D79-88BD-BA53439F1331}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3685324-29A7-4D79-88BD-BA53439F1331}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3685324-29A7-4D79-88BD-BA53439F1331}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
